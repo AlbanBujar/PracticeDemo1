@@ -18,5 +18,9 @@ double sd=89.90;
 
       System.out.println(i + b);
 
+      System.out.println("That it is.");
+
+      System.out.println("s = " + s);
+
   }
 }
